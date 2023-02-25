@@ -1,0 +1,5 @@
+HTTP/1.0 200 OK
+Server: Tiny Web Server
+Content-length: 10858
+Content-type: image/jpeg
+
