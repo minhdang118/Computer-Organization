@@ -1,0 +1,2 @@
+./samples/sub3 131072 
+NORMAL
