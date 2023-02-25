@@ -1,0 +1,1 @@
+{"type": "primary", "version": 1, "sets": {"in": ["s.asm", "genkey.o", "a.asm", "unlock", "g.asm", "property.txt", "Makefile"], "out": ["a.c", "property.txt", "g.c", "s.c"], "params": ["property.txt", "combination", "params.json"]}, "name": "a2p2"}
